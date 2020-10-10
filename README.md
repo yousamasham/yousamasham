@@ -19,9 +19,8 @@
 
 <br />
 
-### GitHub stats
-
-[![Yousam's github stats](https://github-readme-stats.vercel.app/api?username=yousamasham&?count_private=true&?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--### GitHub stats
+[![Yousam's github stats](https://github-readme-stats.vercel.app/api?username=yousamasham&?count_private=true&?theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Languages and Tools:
 
@@ -40,8 +39,8 @@
 <br />
 <br />
 
-<!--### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousamasham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)-->
+### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousamasham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://yousam.ml
 [course]: http://vsCodeHero.com
