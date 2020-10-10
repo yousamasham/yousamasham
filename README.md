@@ -1,6 +1,6 @@
 ### Hi there, I'm Yousam - 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yousam.ml)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fyousam.ml)](https://yousam.ml)
 
 ## I'm a Creator and a Student!
 
