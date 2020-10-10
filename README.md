@@ -9,9 +9,8 @@
 - 🥅 2020 Goals: Become more active on GitHub and starting new projects
 - ⚡ Fun fact: I know how to play drums and trombone
 
-<!---### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yousam Spotify Playing" width="350" />](https://https://open.spotify.com/user/nazsemsem01)--->
+<!--### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yousam Spotify Playing" width="350" />](https://https://open.spotify.com/user/nazsemsem01)-->
 
 ### Get to know me:
 
