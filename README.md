@@ -1,6 +1,4 @@
-### Hi there, I'm Yousam - 👋
-
-[![Website](https://img.shields.io/website?label=yousam.ml&style=for-the-badge&url=https%3A%2F%2Fyousam.ml)](https://yousam.ml)
+##### Hi there, I'm Yousam - 👋
 
 ## I'm a Creator and a Student!
 
