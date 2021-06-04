@@ -4,7 +4,7 @@
 
 - 🔭 I just developed my first personal website: [yousam.ml][website]!
 - 🌱 I'm currently familiarizing myself with machine learning 👨‍💻
-- 🥅 2020 Goals: Become more active on GitHub and starting new projects
+- 🥅 2021 Goals: Become more active on GitHub and starting new projects
 - ⚡ Fun fact: I know how to play drums and trombone
 
 
