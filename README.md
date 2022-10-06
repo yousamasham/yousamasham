@@ -2,7 +2,7 @@
 
 ## I'm a Creator and a Student!
 
-- 🔭 I just developed my first personal website: [yousam.ml][website]!
+- 🔭 I just developed my first personal website: [yousam.tk][website]!
 - 🌱 I'm currently familiarizing myself with machine learning 👨‍💻
 - 🥅 2021 Goals: Become more active on GitHub and starting new projects
 - ⚡ Fun fact: I know how to play drums and trombone
@@ -16,10 +16,6 @@
 [<img align="left" alt="yousam | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
-
-<!--### GitHub stats
-[![Yousam's github stats](https://github-readme-stats.vercel.app/api?username=yousamasham&?count_private=true&?theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
