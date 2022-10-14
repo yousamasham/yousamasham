@@ -2,10 +2,8 @@
 
 ## I'm a Creator and a Student!
 
-- 🔭 I just developed my first personal website: [yousam.tk][website]!
-- 🌱 I'm currently familiarizing myself with machine learning 👨‍💻
-- 🥅 2021 Goals: Become more active on GitHub and starting new projects
-- ⚡ Fun fact: I know how to play drums and trombone
+- 🔭 I recently developed my first personal website: [yousam.tk][website]!
+- 🌱 I'm currently in my fourth year of Software and Biomedical Engieering (iBioMed) @ McMaster University 👨‍💻
 
 
 ### Get to know me:
@@ -16,6 +14,7 @@
 [<img align="left" alt="yousam | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
@@ -36,8 +35,7 @@
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousamasham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://yousam.ml
-[course]: http://vsCodeHero.com
+[website]: https://yousam.tk
 [instagram]: https://www.instagram.com/yousam_/
 [linkedin]: https://linkedin.com/in/yousamasham
 [email]: mailto:ashamy1@mcmaster.ca
