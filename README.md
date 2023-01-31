@@ -1,8 +1,5 @@
 # Hi there, I'm Yousam - 👋
 
-## I'm a Creator and a Student!
-
-- 🔭 I recently developed my first personal website: [yousam.ca][website]!
 - 🌱 I'm currently in my fourth year of Software and Biomedical Engieering (iBioMed) @ McMaster University 👨‍💻
 
 
