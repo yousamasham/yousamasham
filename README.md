@@ -31,7 +31,7 @@
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousamasham&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://yousam.tk
+[website]: https://yousam.ca
 [instagram]: https://www.instagram.com/yousam_/
 [linkedin]: https://linkedin.com/in/yousamasham
 [email]: mailto:ashamy1@mcmaster.ca
