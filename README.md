@@ -1,6 +1,6 @@
 # Hi there, I'm Yousam - 👋
 
-- 🌱 I'm currently in my fourth year of Software and Biomedical Engieering (iBioMed) @ McMaster University 👨‍💻
+- 🌱 Software and Biomedical Engieering (iBioMed) Alumni from McMaster University 👨‍💻
 
 
 ### Get to know me:
